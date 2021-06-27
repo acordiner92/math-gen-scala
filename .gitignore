@@ -1,2 +1,9 @@
 *.class
 *.log
+.DS_Store
+.bloop
+.metals
+.vscode
+target
+project/.bloop
+project/project
